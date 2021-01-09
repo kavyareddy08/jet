@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1608798566 source:c:\users\kavya\documents\jet\main.c
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<GL/glut.h>
+	<gl/gl.h>
+
